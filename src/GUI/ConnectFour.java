@@ -1,4 +1,9 @@
 package GUI;
+/**
+ * @author Nicholas Parise
+ * @version 1.0
+ * @since July 2nd , 2023
+ */
 
 public class ConnectFour {
 

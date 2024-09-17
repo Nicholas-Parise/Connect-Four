@@ -5,9 +5,6 @@ public class Parser {
     /**
      * @author Nicholas Parise
      * @version 1.0
-     * @course COSC 2P13
-     * @assignment #2
-     * @student Id 7242530
      * @since July 2nd , 2023
      */
 

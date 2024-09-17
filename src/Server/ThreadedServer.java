@@ -2,6 +2,12 @@ package Server;
 import java.net.*;
 import java.io.*;
 
+/**
+ * @author Nicholas Parise
+ * @version 1.0
+ * @since July 2nd , 2023
+ */
+
 public class ThreadedServer {
     public static void main(String[] args) {
         int portNumber = 1024;
